@@ -1,0 +1,13 @@
+.vs/
+
+readline/*.config
+
+readline/obj/
+
+readline/Properties/
+
+readline/bin/Debug/readline.exe.config
+
+readline/bin/Debug/readline.pdb
+
+*.sln
